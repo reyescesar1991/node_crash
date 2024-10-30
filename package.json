@@ -1,0 +1,12 @@
+{
+  "name": "crash",
+  "version": "1.0.0",
+  "description": "node crash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "argument error.js"
+  },
+  "author": "cesar reyes",
+  "license": "ISC"
+}
